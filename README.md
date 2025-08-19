@@ -2,7 +2,7 @@
 This Power BI HR Dashboard provides a comprehensive view of workforce analytics, enabling data-driven decision-making in employee management. The dashboard highlights workforce demographics, attrition trends, performance insights, and departmental distributions, helping HR teams identify gaps and optimize strategies.
 
 ## Dataset used
-[]()
+[Dataset](https://github.com/arsh-sandhu-1/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx)
 
 ## Key Insights
 
