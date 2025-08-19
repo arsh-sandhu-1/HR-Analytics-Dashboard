@@ -35,6 +35,9 @@ Performance Report – Individual and departmental performance distribution.
 
 Salary & Compensation Report – Comparative analysis of pay structures across roles and departments.
 
+## DASHBOARD
+![DASHBOARD.JPG(https://github.com/arsh-sandhu-1/HR-Analytics-Dashboard/blob/main/HR_DASHBOARD.jpg)
+
  ## 🧠Final Conclusion
 
 This HR Dashboard empowers HR leaders with actionable insights to improve workforce planning, enhance employee retention, and ensure fair performance and compensation management. By leveraging these insights, organizations can build a stronger, more engaged, and diverse workforce.
