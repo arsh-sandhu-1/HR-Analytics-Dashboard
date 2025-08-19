@@ -37,6 +37,7 @@ Salary & Compensation Report – Comparative analysis of pay structures across r
 
 ## DASHBOARD
 ![DASHBOARD.JPG](https://github.com/arsh-sandhu-1/HR-Analytics-Dashboard/blob/main/HR_DASHBOARD.jpg)
+## 💼 Tools Used: Power BI | DAX | Data Modeling | Data Cleaning
 
  ## 🧠Final Conclusion
 
