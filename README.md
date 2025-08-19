@@ -5,7 +5,7 @@ This Power BI HR Dashboard provides a comprehensive view of workforce analytics,
 ## Dataset used
 [Dataset](https://github.com/arsh-sandhu-1/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx)
 
-## Key Insights
+## 🔍 Key Insights
 
 Clear visualization of attrition rate and its impact on overall workforce stability.
 
@@ -15,7 +15,7 @@ Performance evaluation highlights top-performing employees and departments.
 
 Salary analysis provides insights into compensation trends and employee satisfaction.
 
-## Key Findings
+## 📌Key Findings
 
 Certain age groups and departments show higher attrition rates, indicating a need for targeted retention strategies.
 
@@ -25,7 +25,7 @@ Some departments show higher performance yet lower compensation, which could aff
 
 Employee tenure analysis reflects the importance of career growth opportunities in reducing turnover.
 
-## Reports Included
+## 📈Reports Included
 
 Employee Demographics Report – Age, gender, department, and role distribution.
 
@@ -35,7 +35,7 @@ Performance Report – Individual and departmental performance distribution.
 
 Salary & Compensation Report – Comparative analysis of pay structures across roles and departments.
 
- ## Final Conclusion
+ ## 🧠Final Conclusion
 
 This HR Dashboard empowers HR leaders with actionable insights to improve workforce planning, enhance employee retention, and ensure fair performance and compensation management. By leveraging these insights, organizations can build a stronger, more engaged, and diverse workforce.
 
