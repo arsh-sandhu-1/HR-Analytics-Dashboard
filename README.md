@@ -36,7 +36,7 @@ Performance Report – Individual and departmental performance distribution.
 Salary & Compensation Report – Comparative analysis of pay structures across roles and departments.
 
 ## DASHBOARD
-![DASHBOARD.JPG(https://github.com/arsh-sandhu-1/HR-Analytics-Dashboard/blob/main/HR_DASHBOARD.jpg)
+![DASHBOARD.JPG](https://github.com/arsh-sandhu-1/HR-Analytics-Dashboard/blob/main/HR_DASHBOARD.jpg)
 
  ## 🧠Final Conclusion
 
